@@ -6,3 +6,6 @@ Ja fiz o git clone  agora vou subir essa nova versão do README.
 Estamos tendo aula de analise de dados e é de extrema importancia o conhecimento do git/github para meu curriculo e para as empresas verem meus projetos.
 
 Ok!
+
+
+Entendi, agora vou atualizar pela ultima vez para ficar bem claro, combinado?
